@@ -29,6 +29,6 @@ Benimle teknik projeler, staj/iş fırsatları veya siber güvenlik üzerine soh
 
 ---
 
-* [LinkedIn Profilim](https://linkedin.com/in/kullaniciadiniz)
+* [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-irşad-ayar-5b519a1a4/)
 * [GitHub Profilim](https://github.com/YusuffAyar)
 * 📧 E-posta: `ysf.ayar60@gmail.com`
