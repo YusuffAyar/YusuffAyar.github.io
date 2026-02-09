@@ -1,11 +1,11 @@
 #  The contact options.
 
-type: github
-icon: "fab fa-github"
+- type: github
+  icon: "fab fa-github"
 
-type: email
-icon: "fas fa-envelope"
-noblank: true # open link in current tab
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
 
 # Uncomment and complete the url below to enable more contact options
 #
@@ -13,9 +13,9 @@ noblank: true # open link in current tab
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-type: linkedin
-icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-url:  'https://www.linkedin.com/in/yusuf-irşad-ayar-5b519a1a4/' # Fill with your Linkedin homepage
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/in/yusuf-irşad-ayar-5b519a1a4/" # Fill with your Linkedin homepage
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
