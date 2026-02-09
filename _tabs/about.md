@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 icon: fas fa-info-circle
 order: 4
 ---
