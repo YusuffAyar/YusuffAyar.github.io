@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://YusuffAyar.github.io"
 
 github:
-  username: YusuffAyar # change to your GitHub username
+  username: https://github.com/YusuffAyar # change to your GitHub username
 
 social:
   # Change to your full name.
@@ -35,7 +35,7 @@ social:
   email: ysf.ayar60@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/YusuffAyar # change to your GitHub homepage
+    - YusuffAyar # change to your GitHub homepage
     # Uncomment below to add more social links
     - https://www.linkedin.com/in/yusuf-irşad-ayar-5b519a1a4/
 
