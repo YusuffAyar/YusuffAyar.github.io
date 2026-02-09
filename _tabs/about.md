@@ -28,6 +28,3 @@ Akademik eğitimim boyunca edindiğim teorik bilgiyi, gerçek dünya senaryolar�
 Benimle teknik projeler, staj/iş fırsatları veya siber güvenlik üzerine sohbet etmek için iletişime geçebilirsiniz.
 
 ---
-
-* [LinkedIn Profilim](https://www.linkedin.com/in/yusuf-irşad-ayar-5b519a1a4/)
-* [GitHub Profilim](https://github.com/YusuffAyar)
