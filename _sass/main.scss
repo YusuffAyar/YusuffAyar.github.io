@@ -1,7 +1,7 @@
 /* Bu kod, temanın varsayılan avatar boyutunu ezer */
 
 #sidebar {
-  #avatar {
+  #avatar1 {
     /* Genişlik ve yükseklik değerlerini buradan artırabilirsiniz */
     width: 9rem !important; /* Orijinali 7rem idi */
     height: 9rem !important;
@@ -10,7 +10,7 @@
 
 /* Mobildeki (üst bar) avatar boyutu için */
 #topbar-wrapper {
-  #avatar {
+  #avatar1 {
     width: 3rem !important; /* Orijinali 2rem olabilir */
     height: 3rem !important;
   }
