@@ -26,5 +26,3 @@ Siber savunma yeteneklerimi geliştirmek adına aşağıdaki teknolojiler ve met
 Akademik eğitimim boyunca edindiğim teorik bilgiyi, gerçek dünya senaryolarıyla birleştirerek; bir Güvenlik Operasyon Merkezi (SOC) bünyesinde katma değer yaratmak ve siber savunma stratejilerine katkıda bulunmaktır. Disiplinli çalışma prensibim ve sürekli öğrenme tutkumla, siber güvenlik ekosisteminde güvenilir bir savunma uzmanı olma yolunda ilerliyorum.
 
 Benimle teknik projeler, staj/iş fırsatları veya siber güvenlik üzerine sohbet etmek için iletişime geçebilirsiniz.
-
----
