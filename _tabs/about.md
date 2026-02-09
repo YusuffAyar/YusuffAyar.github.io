@@ -1,6 +1,5 @@
 ---
 layout: page
-title: about
 icon: fas fa-info-circle
 order: 4
 ---
@@ -30,8 +29,6 @@ Benimle teknik projeler, staj/iş fırsatları veya siber güvenlik üzerine soh
 
 ---
 
-<div style="text-align: center;">
-  <a href="ysf.ayar60@gmail.com" style="margin-right: 15px;">E-posta Gönder</a> | 
-  <a href="https://www.linkedin.com/in/yusuf-irşad-ayar-5b519a1a4/" style="margin-right: 15px;">LinkedIn</a> | 
-  <a href="https://github.com/YusuffAyar">GitHub</a>
-</div>
+* [LinkedIn Profilim](https://linkedin.com/in/kullaniciadiniz)
+* [GitHub Profilim](https://github.com/YusuffAyar)
+* 📧 E-posta: `ysf.ayar60@gmail.com`
