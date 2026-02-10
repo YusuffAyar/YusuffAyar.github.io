@@ -3,9 +3,6 @@ title: "Merhaba Dünya ve İlk Vaka Analizim: Şüpheli E-Posta İncelemesi"
 date: 2026-02-10 03:45:00 +0300
 categories: [Blue Team, Phishing Analizi]
 tags: [merhaba, baslangic, email-forensics, dfir, phishing]
-image:
-  path: /assets/img/posts/2026/ilk-analiz-kapak.jpg
-  alt: Siber Güvenlik Analiz Kapak Görseli
 ---
 
 ## Giriş: Neden Bu Blog?
