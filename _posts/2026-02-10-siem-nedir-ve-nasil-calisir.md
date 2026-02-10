@@ -4,6 +4,9 @@ date: 2026-02-10 05:00:00 +0300
 categories: [Siber Güvenlik, Blue Team]
 tags: [siem, soc, log yönetimi, korelasyon, siber savunma]
 mermaid: true
+image:
+  path: /assets/img/siem.jpeg
+  alt: SIEM
 ---
 
 Günümüzün karmaşık siber tehdit ortamında, kurumların ağlarında gerçekleşen her aktiviteyi izlemesi ve anlamlandırması hayati bir zorunluluktur. İşte bu noktada **SIEM (Security Information and Event Management)** devreye girer. Bu makalede, SIEM teknolojisinin ne olduğunu, mimarisini ve siber savunma stratejilerindeki kritik rolünü inceleyeceğiz.
