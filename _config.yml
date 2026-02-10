@@ -211,10 +211,10 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [playbooks, signatures]
+  enabled: [categories, tags]
   layouts:
-    playbooks: playbooks
-    signatures: signatures
+    category: category
+    tag: tag
   permalinks:
-    signatures: /signatures/:name/
-    playbooks: /playbooks/:name/
+    tag: /tags/:name/
+    category: /categories/:name/

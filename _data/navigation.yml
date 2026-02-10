@@ -1,0 +1,17 @@
+# Main Menu
+main:
+  - title: Dashboard # Eskiden 'Home' idi
+    url: / # BURAYA DOKUNMA (Ana sayfa kök dizindir)
+    icon: fas fa-tachometer-alt # Hız göstergesi ikonu (Opsiyonel)
+
+  - title: Playbooks # Eskiden 'Categories' idi
+    url: /categories/ # BURAYA DOKUNMA (Hala categories klasöründen çekecek)
+    icon: fas fa-stream # Akış/Süreç ikonu
+
+  - title: Signatures # Eskiden 'Tags' idi
+    url: /tags/ # BURAYA DOKUNMA
+    icon: fas fa-tags # Etiket ikonu
+
+  - title: Logs # Eskiden 'Archives' idi
+    url: /archives/ # BURAYA DOKUNMA
+    icon: fas fa-archive # Arşiv ikonu
