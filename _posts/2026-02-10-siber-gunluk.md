@@ -15,5 +15,4 @@ Bu benim ilk blog yazım. Siber güvenlik alanındaki çalışmalarımı, çözd
 * Mavi Takım (Blue Team) stratejileri
 * Günlük öğrenim notlarım
 
-> [!TIP]
 > Bu bir test yazısıdır. Eğer bunu görüyorsanız sistem çalışıyor demektir.
