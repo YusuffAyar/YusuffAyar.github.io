@@ -1,5 +1,5 @@
 ---
-layout: playbooks
-icon: fas fa-shield-alt
+layout: categories
+icon: fas fa-stream
 order: 1
 ---

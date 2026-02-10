@@ -1,5 +1,5 @@
 ---
-layout: logs
-icon: fas fa-clipboard-list
+layout: archives
+icon: fas fa-archive
 order: 3
 ---
