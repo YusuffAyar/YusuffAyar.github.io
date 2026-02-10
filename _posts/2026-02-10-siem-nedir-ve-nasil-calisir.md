@@ -1,12 +1,11 @@
 ---
 title: "SIEM Nedir? Modern Siber Güvenliğin Merkezi Sinir Sistemi"
-date: 2026-02-10 05:00:00 +0300
+date: 2026-02-10 12:00:00 +0300
 categories: [Siber Güvenlik, Blue Team]
 tags: [siem, soc, log yönetimi, korelasyon, siber savunma]
-mermaid: true
 image:
-  path: /assets/img/siem.jpeg
-  alt: SIEM
+    path: /assets/img/siem.jpeg
+    alt: SIEM
 ---
 
 Günümüzün karmaşık siber tehdit ortamında, kurumların ağlarında gerçekleşen her aktiviteyi izlemesi ve anlamlandırması hayati bir zorunluluktur. İşte bu noktada **SIEM (Security Information and Event Management)** devreye girer. Bu makalede, SIEM teknolojisinin ne olduğunu, mimarisini ve siber savunma stratejilerindeki kritik rolünü inceleyeceğiz.
@@ -39,12 +38,24 @@ Korelasyon kuralları bir tehdit tespit ettiğinde, güvenlik analistlerine (SOC
 
 ## SIEM İş Akışı Şeması
 
-Aşağıdaki diyagram, ham log verisinin bir güvenlik olayına dönüşme sürecini özetlemektedir:
+Aşağıdaki şema, ham log verisinin bir güvenlik olayına dönüşme sürecini özetlemektedir:
 
-```mermaid
-graph TD
-    A[Log Kaynakları] -->|Ham Veri| B(Log Toplayıcı & Normalleştirme)
-    B -->|İşlenmiş Veri| C{Korelasyon Motoru}
-    C -->|Kural Eşleşmesi| D[Olay / Incident]
-    D -->|Alarm| E[SOC Analisti]
-    C -->|Eşleşme Yok| F[Arşivleme / Log Depolama]
+
+
+```text
++---------------------+       +------------------------+       +---------------------+
+|   LOG KAYNAKLARI    | ----> | TOPLAYICI & NORMALİZE  | ----> |  KORELASYON MOTORU  |
++---------------------+       +------------------------+       +---------------------+
+| - Firewall (Syslog) |       | - Format Çevirisi      |       | - Kural Eşleşmesi   |
+| - Sunucular (WMI)   |       | - Veri Zenginleştirme  |       | - Davranış Analizi  |
+| - Uygulamalar       |       | - Filtreleme           |       | - Tehdit İstihbaratı|
++---------------------+       +------------------------+       +----------+----------+
+                                                                          |
+                                                                          | (Tetikleme)
+                                                                          v
+                                                               +---------------------+
+                                                               |    ALARM & TEPKİ    |
+                                                               +---------------------+
+                                                               | [!] SOC Uyarısı     |
+                                                               | [!] Otomatik Blok   |
+                                                               +---------------------+
