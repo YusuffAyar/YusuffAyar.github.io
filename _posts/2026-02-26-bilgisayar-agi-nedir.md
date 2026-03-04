@@ -13,7 +13,7 @@ image:
 İnsanlar ve dijital cihazlar kendi aralarında birbirleriyle iletişim kurabilen varlıklardır. İnsanların yaşadığı bir ortam olduğu gibi, dijital dünyadaki cihazların da bir ortamı vardır.
 Dijital dünyadaki cihazlar tarafından oluşturulan bu ortama "Bilgisayar Ağı" denir. Başka bir deyişle, en az iki cihazın birbirleriyle iletişim kurduğu yapıya "Bilgisayar Ağı" denilebilir
 
-![Network](/assets/ag-nedir/network.png)
+![Network](/assets/ag-nedir/network.jpg)
 
 
 ### Bilgisayar Ağlarının Amaçları
