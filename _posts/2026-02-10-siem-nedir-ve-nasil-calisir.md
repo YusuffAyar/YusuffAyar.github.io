@@ -12,7 +12,7 @@ image:
 
 Bilgisayar ağları coğrafi olarak boyutlarına göre birçok gruba ayrılır. Bu ağlar, içinde milyonlarca cihaz bulunan büyük ağlar veya 2-3 cihazdan oluşan küçük ağlar olabilir. Bazı bilgisayar ağları hakkında aşağıda bilgi verilmiştir.
 
-![Ağ Türleri](/assets/ag-turleri/agturleri.png)
+![Ağ-Türleri](/assets/ag-turleri/agturleri.png)
 
 ### Personal Area Network (PAN)
 
