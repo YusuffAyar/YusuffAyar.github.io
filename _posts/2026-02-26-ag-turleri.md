@@ -4,7 +4,7 @@ date: 2026-02-26 13:00:00 +0300
 categories: [Bilgisayar Ağı, Ağ Türleri]
 tags: [bilgisayar-ağı, internet, network, ağ, pan, lan, man, wan, can]
 image:
-    path: /assets/ag-turleri/agturleriBaslik.webp
+    path: /assets/img/agturleriBaslik.webp
     alt: Ağ Türleri
 ---
 

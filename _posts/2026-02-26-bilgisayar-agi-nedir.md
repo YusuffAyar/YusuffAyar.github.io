@@ -4,7 +4,7 @@ date: 2026-02-26 12:00:00 +0300
 categories: [Bilgisayar Ağı, Network, İnternet]
 tags: [bilgisayar-ağı, network, arpanet, internet]
 image:
-    path: /assets/ag-nedir/networkBaslik.png
+    path: /assets/img/networkBaslik.png
     alt: NETWORK
 ---
 
