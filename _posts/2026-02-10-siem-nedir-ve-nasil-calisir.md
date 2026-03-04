@@ -29,9 +29,7 @@ ağına örnek olarak verilebilir.
 
 **Geniş Alan Ağı (WAN)**, bilgisayar ağları arasında en büyük coğrafi alana sahip bilgisayar ağıdır. Bu bilgisayar ağı o kadar büyüktür ki kıtaları bile içerebilir. İçinde diğer tüm bilgisayar ağlarını barındırır. Bu bilgisayar ağına bir örnek "İnternet"tir.
 
-image: 
-    path: /assets/img/wan.jpeg
-    alt: WAN
+![WAN](/assets/img/wan.jpeg)
 
 ### Campus Area Network (CAN)
 
