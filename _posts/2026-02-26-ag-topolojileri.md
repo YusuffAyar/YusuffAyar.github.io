@@ -4,7 +4,7 @@ date: 2026-02-26 14:00:00 +0300
 categories: [Bilgisayar Ağı, Network, İnternet, Ağ Topolojileri]
 tags: [bilgisayar-ağı, network, topoloji, internet, ağ, fiziksel-topoloji, mantıksal-topoloji, halka, ring, yıldız, star, örgü, mesh, full-mesh, partial-mesh, ortak-yol, bus, noktadan-noktaya, point-to-point, ağaç, tree]
 image:
-    path: /assets/img/networkBaslik.png
+    path: /assets/img/network-topologyBaslik.png
     alt: NETWORK
 ---
 
