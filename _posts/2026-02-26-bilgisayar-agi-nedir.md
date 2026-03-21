@@ -1,6 +1,6 @@
 ---
 title: "Bilgisayar Ağı (Network) Nedir?"
-date: 2026-02-26 12:00:00 +0300
+date: 2026-02-26 14:30:00 +0300
 categories: [Bilgisayar Ağı, Network, İnternet]
 tags: [bilgisayar-ağı, network, arpanet, internet]
 image:

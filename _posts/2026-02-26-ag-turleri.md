@@ -1,6 +1,6 @@
 ---
 title: "Ağ Türleri"
-date: 2026-02-26 13:00:00 +0300
+date: 2026-02-26 15:00:00 +0300
 categories: [Bilgisayar Ağı, Ağ Türleri]
 tags: [bilgisayar-ağı, internet, network, ağ, pan, lan, man, wan, can]
 image:
