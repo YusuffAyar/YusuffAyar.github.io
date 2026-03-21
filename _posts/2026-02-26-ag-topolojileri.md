@@ -5,7 +5,7 @@ categories: [Bilgisayar Ağı, Network, İnternet, Ağ Topolojileri]
 tags: [bilgisayar-ağı, network, topoloji, internet, ağ, fiziksel-topoloji, mantıksal-topoloji, halka, ring, yıldız, star, örgü, mesh, full-mesh, partial-mesh, ortak-yol, bus, noktadan-noktaya, point-to-point, ağaç, tree]
 image:
     path: /assets/img/network_topologyBaslik.png
-    alt: NETWORK
+    alt: Ağ Topolojileri
 ---
 
 ## Ağ Topolojileri
