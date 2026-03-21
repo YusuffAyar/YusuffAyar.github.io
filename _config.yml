@@ -144,7 +144,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://yusuffayar.github.io"
+baseurl: ""
+url: "https://yusuffayar.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
