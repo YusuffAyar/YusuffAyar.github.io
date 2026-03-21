@@ -12,13 +12,13 @@ image:
 
 **Open System Interconnection (OSI)** referans modeli 1978 yılında **International Organization for Standardization (ISO)** tarafından geliştirilmiştir. OSI modeli, farklı işletim sistemleri arasında iletişimi sağlamak için oluşturulmuş bir modeldir. Bu modelle ağ yapılarını anlamak daha kolay hale geldi. Katmanlı bir mimariye sahiptir. OSI modelindeki her katmanın ayrı görevleri vardır. Bu katmanlar arasında hiyerarşik bir düzen vardır ve her katman bir sonraki katmana hizmet eder. OSI modelindeki katman sayısı 7'dir.
 
-7) APPLICATION LAYER (UYGULAMA KATMANI)
-6) PRESENTATION LAYER (SUNUM KATMANI)
-5) SESSION LAYER (OTURUM KATMANI)
-4) TRANSPORT LAYER (TAŞIMA KATMANI)
-3) NETWORK LAYER (AĞ KATMANI)
-2) DATA LINK LAYER (VERİ BAĞLANTISI KATMANI)
-1) PHYSICAL LAYER (FİZİKSEL KATMAN)
+7. APPLICATION LAYER (UYGULAMA KATMANI)
+6. PRESENTATION LAYER (SUNUM KATMANI)
+5. SESSION LAYER (OTURUM KATMANI)
+4. TRANSPORT LAYER (TAŞIMA KATMANI)
+3. NETWORK LAYER (AĞ KATMANI)
+2. DATA LINK LAYER (VERİ BAĞLANTISI KATMANI)
+1. PHYSICAL LAYER (FİZİKSEL KATMAN)
 
 Veri iletimi bu katmanlar aracılığıyla gerçekleştirilir ve kullanıcıya iletilir.
 
