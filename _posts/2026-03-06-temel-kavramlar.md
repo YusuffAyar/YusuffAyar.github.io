@@ -1,14 +1,14 @@
 ---
-title: "Temel Kavramlar"
+title: "Network Temel Kavramlar"
 date: 2026-03-06 16:30:00 +0300
 categories: [Bilgisayar Ağı, Network, İnternet, Temel Kavramlar]
 tags: [bilgisayar-ağı, network, internet, temel-kavramlar, basic-concepts, unicast, multicast, broadcast, broadcast-domain, collision-domain, subnet-mask, tek-noktaya-yayın, çoklu-yayın, yayın, yayın-alanı, çarpışma-alanı, alt-ağ-maskesi]
 image:
-    path: /assets/img/nat_Baslik.jpeg
-    alt: IP Addressing Mechanism
+    path: /assets/img/network_temel_kavramlarBaslik.png
+    alt: Network Basic Concepts
 ---
 
-## Temel Kavramlar
+## Network Temel Kavramlar
 
 **Unicast (Tek Noktaya Yayın)**
 
