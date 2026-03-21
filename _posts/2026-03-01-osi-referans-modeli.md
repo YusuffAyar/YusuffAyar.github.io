@@ -2,7 +2,7 @@
 title: "OSI Referans Modeli Nedir?"
 date: 2026-03-01 15:00:00 +0300
 categories: [Bilgisayar Ağı, Network, İnternet, OSI Referans Modeli]
-tags: [bilgisayar-ağı, network, internet, osi-referans-modeli, iso, physical, fiziksel, data-link, veri-bağlantısı, ağ, transport, taşıma, session, oturum, presentation, sunum, application, uygulama, katman]
+tags: [bilgisayar-ağı, network, internet, osi-referans-modeli, iso, physical, fiziksel, data-link, veri-bağlantısı, ağ, transport, taşıma, session, oturum, presentation, sunum, application, uygulama, layer, katman]
 image:
     path: /assets/img/osi_referans_modeli_girisBaslik.png
     alt: OSI Referans Modeli
