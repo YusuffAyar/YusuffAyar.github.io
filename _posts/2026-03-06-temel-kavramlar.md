@@ -1,5 +1,5 @@
 ---
-title: "Network Temel Kavramlar"
+title: "Network Basic Concepts"
 date: 2026-03-06 15:00:00 +0300
 categories: [Bilgisayar Ağı, Network]
 tags: [bilgisayar-ağı, network, internet, temel-kavramlar, basic-concepts, unicast, multicast, broadcast, broadcast-domain, collision-domain, subnet-mask, tek-noktaya-yayın, çoklu-yayın, yayın, yayın-alanı, çarpışma-alanı, alt-ağ-maskesi]
