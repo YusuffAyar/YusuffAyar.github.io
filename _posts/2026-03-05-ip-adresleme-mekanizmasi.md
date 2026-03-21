@@ -1,7 +1,7 @@
 ---
-title: "IP Adresleme Mekanizması Nedir?"
+title: "IP Addressing Mechanism"
 date: 2026-03-05 15:00:00 +0300
-categories: [Bilgisayar Ağı, Network, İnternet, IP Adresleme Mekanizması]
+categories: [Bilgisayar Ağı, Network]
 tags: [bilgisayar-ağı, network, internet, ağ, ip-adresi, ip-adresleme-mekanizması, ip-addressing-mechanism, ip-address, ipv4, ipv6, ip-adresi-sınıfları, özel-ip-adresleri, private-ip-address, localhost]
 image:
     path: /assets/img/ip_adresleme_mekanizmasiBaslik.png

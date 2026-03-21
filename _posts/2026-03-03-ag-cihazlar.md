@@ -1,7 +1,7 @@
 ---
-title: "Ağ Cihazları Nedir?"
+title: "Network Devices"
 date: 2026-03-03 15:00:00 +0300
-categories: [Bilgisayar Ağı, Network, İnternet, Ağ Cihazları]
+categories: [Bilgisayar Ağı, Network]
 tags: [bilgisayar-ağı, network, internet, ağ-cihazları, switch, router, hub, repearter, bridge, modem, firewall, gateway, anahtar, yönlendirici, tekrarlayıcı, köprü, güvenlik-duvarı, ağ-geçidi]
 image:
     path: /assets/img/ag_cihazlariBaslik.png

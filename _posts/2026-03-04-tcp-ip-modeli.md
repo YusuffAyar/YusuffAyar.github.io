@@ -1,7 +1,7 @@
 ---
-title: "TCP/IP Modeli Nedir?"
+title: "TCP/IP Model"
 date: 2026-03-04 15:00:00 +0300
-categories: [Bilgisayar Ağı, Network, İnternet, TCP/IP Modeli]
+categories: [Bilgisayar Ağı, Network]
 tags: [bilgisayar-ağı, network, internet, osi-referans-modeli, tcp-ip-modeli, network-access, ağ-erişimi, ağ, transport, taşıma, application, uygulama, layer, katman]
 image:
     path: /assets/img/tcp_ipBaslik.jpg

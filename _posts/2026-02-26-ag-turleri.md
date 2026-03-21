@@ -1,7 +1,7 @@
 ---
-title: "Ağ Türleri"
+title: "Network Types"
 date: 2026-02-26 15:00:00 +0300
-categories: [Bilgisayar Ağı, Network, İnternet, Ağ Türleri]
+categories: [Bilgisayar Ağı, Network]
 tags: [bilgisayar-ağı, internet, network, ağ, pan, lan, man, wan, can]
 image:
     path: /assets/img/agturleriBaslik.webp
