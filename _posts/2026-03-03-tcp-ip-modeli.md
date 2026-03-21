@@ -2,7 +2,7 @@
 title: "TCP/IP Modeli Nedir?"
 date: 2026-03-03 15:00:00 +0300
 categories: [Bilgisayar Ağı, Network, İnternet, TCP/IP Modeli]
-tags: [bilgisayar-ağı, network, internet, tcp-ip-modeli, network-access, ağ-erişimi, ağ, transport, taşıma, application, uygulama, layer, katman]
+tags: [bilgisayar-ağı, network, internet, osi-referans-modeli, tcp-ip-modeli, network-access, ağ-erişimi, ağ, transport, taşıma, application, uygulama, layer, katman]
 image:
     path: /assets/img/tcp_ipBaslik.jpg
     alt: OSI Referans Modeli
@@ -35,5 +35,8 @@ TCP/IP modelindeki 3.katmandır. OSI referans modelinde katman 4 ile benzer işl
 
 TCP/IP modelindeki 4. ve son katmandır. OSI referans modelinde 5., 6. ve 7. katmanlarda gerçekleştirilen tüm işlemleri kapsayan bir katmandır. Uygulama düzeyinde kontroller ve işlemler bu katmanda yürütülür.
 
+## OSI Modeli ve TCP/IP Modeli
 
+OSI referans modeli ve TCP/IP modeli çok benzer modeller olmasına rağmen, bazı noktalarda birbirlerinden farklıdırlar. TCP/IP modeli ilk ortaya çıktığında, standart olmayı hedeflemeden zorunluluktan ortaya çıktı. Öte yandan OSI referans modeli, pratik kullanımı da dahil olmak üzere teoride olması gereken ideal ağ iletişimini tasarlamayı amaçlamıştır. TCP/IP modeli bazı protokollere dayanarak geliştirilmiştir. Öte yandan OSI modeli herhangi bir protokolde geliştirilmemiştir.
 
+![osi-tcp-ip](assets/tcp-ip-modeli/osi-tcp-ip-modeli.png)
