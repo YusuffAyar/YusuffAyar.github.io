@@ -1,17 +1,37 @@
-/* Bu kod, temanın varsayılan avatar boyutunu ezer */
+/* ==========================================================================
+   Bu kod, temanın varsayılan avatar boyutlarını ezer ve kalitesini artırır.
+   ========================================================================== */
 
 #sidebar {
-  #avatar1 {
-    /* Genişlik ve yükseklik değerlerini buradan artırabilirsiniz */
-    width: 9rem !important; /* Orijinali 7rem idi */
+  #profil_fotografi {
+    /* Genişlik ve yükseklik değerlerini artırdık */
+    width: 9rem !important; /* Orijinali 7rem idi, isteğe göre artırılabilir */
     height: 9rem !important;
+
+    /* Görsel Kalitesi ve Hizalama Ayarları */
+    display: block !important;
+    margin: 0 auto 1.5rem auto !important; /* Ortalamak ve altına boşluk bırakmak için */
+    border-radius: 50% !important; /* Logonun yuvarlak çerçeveye oturması için */
+    border: 2px solid #00d2ff !important; /* Logonun ışıltılı mavisine uygun çerçeve */
+    box-shadow: 0 0 15px rgba(0, 210, 255, 0.4) !important; /* Hafif neon ışıltı */
+    object-fit: cover !important; /* Görselin en-boy oranını koruyarak sığdırır */
+    image-rendering: high-quality !important; /* Yüksek çözünürlük sağlar */
   }
 }
 
-/* Mobildeki (üst bar) avatar boyutu için */
 #topbar-wrapper {
-  #avatar1 {
-    width: 3rem !important; /* Orijinali 2rem olabilir */
+  #profil_fotografi {
+    /* Genişlik ve yükseklik değerlerini artırdık */
+    width: 3rem !important; /* Orijinali 2rem idi, isteğe göre artırılabilir */
     height: 3rem !important;
+
+    /* Görsel Kalitesi ve Hizalama Ayarları */
+    display: inline-block !important;
+    vertical-align: middle !important; /* Metinle aynı hizaya getirmek için */
+    border-radius: 50% !important; /* Logonun yuvarlak çerçeveye oturması için */
+    border: 1.5px solid #00d2ff !important; /* Mobil için daha ince çerçeve */
+    box-shadow: 0 0 10px rgba(0, 210, 255, 0.3) !important; /* Daha hafif mobil ışıltı */
+    object-fit: cover !important; /* Görselin en-boy oranını koruyarak sığdırır */
+    image-rendering: high-quality !important; /* Yüksek çözünürlük sağlar */
   }
 }
