@@ -1,11 +1,11 @@
 ---
-title: "Virtual Private Network (VPN)"
+title: "Network Protocols"
 date: 2026-03-09 17:00:00 +0300
 categories: [Bilgisayar Ağı, Network]
-tags: [bilgisayar-ağı, network, internet, sanal-özel-ağ, vpn, virtual-private-network, switch]
+tags: [bilgisayar-ağı, network, internet, protokol, protocol, communication, iletişim, management, yönetim, security, güvenlik, arp, ip, tcp, udp, bgp, dhcp, icmp, snmp, ftp, pop3, telnet, ssl, tls]
 image:
-    path: /assets/img/vpn_Baslik.jpg
-    alt: Virtual Private Network
+    path: /assets/img/ag_protokolleriBaslik.jpg
+    alt: Network Protocols
 ---
 
 ## Ağ Protokolleri Nedir?
@@ -41,3 +41,5 @@ Bu 3 gruptaki en yaygın protokoller şunlardır:
 
 1. Secure Socket Layer (SSL)
 2. Transport Layer Security (TLS)
+
+![protokol-türleri](assets/ag-protokolleri/types-of-protocol.png)
