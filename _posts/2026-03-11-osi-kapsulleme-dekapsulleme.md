@@ -4,7 +4,7 @@ date: 2026-03-11 15:00:00 +0300
 categories: [Bilgisayar Ağı, Network]
 tags: [bilgisayar-ağı, network, internet, protokol, protocol, kapsülleme, encapsulation, decapsulation, dekapsülasyon, pdu, osi-modeli, katman, layer, physical, fiziksel, data-link, veri-bağlantısı, ağ, transport, taşıma, session, oturum, presentation, sunum, application, uygulama, fddi, slip, x.25, token-ring, atm, frame-relay, hdlc, ppp, ethernet, ip, ipx, icmp, igmp, bgp, ospf, rip, tcp, udp, atp, rpc, netbios, sql, ascii, binary, ebcdic, gif, jpeg, tiff, html, mpeg, ftp, telnet, smtp]
 image:
-    path: /assets/img/ag_protokolleriBaslik.png
+    path: /assets/img/encapsulation_decapsulation_Baslik.jpg
     alt: Data Encapsulation and Decapsulation
 ---
 
