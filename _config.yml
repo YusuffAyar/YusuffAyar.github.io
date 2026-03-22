@@ -16,10 +16,10 @@ timezone: Europe/Istanbul
 
 title: Siber Güvenlik Dünyası # the main title
 
-tagline: Siber Güvenlik Dünyası # it will display as the subtitle
+tagline: Network ve Siber Güvenlik Hakkında Blog Yazıları # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Siber Güvenlik, Mavi Takım (Blue Team), Olay Müdahale (DFIR) ve Zararlı Yazılım Analizi üzerine notlar, teknik incelemeler ve writeup paylaşımları.
+  Network, Siber Güvenlik, Mavi Takım (Blue Team), Olay Müdahale (DFIR) ve Zararlı Yazılım Analizi üzerine notlar, teknik incelemeler ve writeup paylaşımları.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
