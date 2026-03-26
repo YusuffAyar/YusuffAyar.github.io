@@ -8,11 +8,11 @@ image:
     alt: Routing
 ---
 
-## Yönlendirme (Routing) Nedir?
+## Yönlendirme (Routing) Nedir?
 
 Bir ağdan farklı ağlara iletim ve iletim yolunun belirlenmesine "**yönlendirme (routing)**" denir. Yönlendiriciler, yönlendirmenin ana görevi olan cihazlardır. Yönlendirici cihazlarında en az 2 ağ arayüzü vardır.
 
-## Yönlendirme Tablosu
+## Yönlendirme Tablosu
 
 Yönlendirme tablosu, ağın cihazlara gidebileceği rotaların bilgilerinin bulunduğu yerdir. Cihazlar bu tabloları yönlendirmede kullanır.
 
@@ -61,7 +61,7 @@ Paketlerin iletilebilmesi için iletişimdeki cihazların belirli kararlar almas
 
 Birçok farklı algoritmaya sahip yönlendirme protokolleri vardır. Gerekirse yönlendiricilerde farklı yönlendirme protokolleri kullanılabilir. Bazı yönlendirme protokolleri şunlardır:
 
-* RIP (Routing Information Protocol)
-* OSPF (Open Shortest Path First)
-* IGRF (Interior Gateway Routing Protocol)
-* EIGRP (Enhanced Interior Gateway Routing Protocol)
+* **RIP (Routing Information Protocol)**
+* **OSPF (Open Shortest Path First)**
+* **IGRF (Interior Gateway Routing Protocol)**
+* **EIGRP (Enhanced Interior Gateway Routing Protocol)**
