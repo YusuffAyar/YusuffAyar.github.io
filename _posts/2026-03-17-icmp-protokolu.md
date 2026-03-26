@@ -29,7 +29,7 @@ ICMP, paketlerin gönderen cihaza iletilmesi sırasında hataları, uyarıları 
 
 ## ICMP Uygulamaları
 
-1. **Ping**
+1) **Ping**
 
 Ping, ağdaki cihazın ICMP mesajları kullanılarak iletilip iletilmediğini öğrenmek için kullanılan bir uygulamadır. 
 
@@ -39,7 +39,7 @@ ICMP ping isteği "**-c**" parametresine sahip "5" paketi ile gönderildi. Yanı
 
 **NOT**: Bazı ağlarda, güvenlik açısından güvenlik duvarı yapılandırmaları aracılığıyla ICMP mesajları engellenir. Bu nedenle, böyle bir ağda ping komutuna yanıt verilmeyecektir. Ancak ağ iletişimi hedef cihazla hala devam etmelidir.
 
-2. **Traceroute**
+2) **Traceroute**
 
 Traceroute, paketlerin hedeflerine ulaşana kadar izlediği rotayı belirlemek için kullanılan bir uygulamadır. Paketlerin takip ettiği yol haritasının tüm ayrıntıları bu uygulama aracılığıyla ortaya çıkar.
 

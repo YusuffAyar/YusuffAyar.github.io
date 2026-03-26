@@ -8,7 +8,7 @@ image:
     alt: Internet Protocol
 ---
 
-## İnternet Protokolü (IP) Nedir?
+## İnternet Protokolü (IP) Nedir?
 
 İnternet protokolü, farklı ağlar arasında paket iletimini sağlayan protokoldür. Verileri bir üst iletim katmanına gönderilecek şekilde hazırlar.
 

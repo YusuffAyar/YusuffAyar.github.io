@@ -34,15 +34,15 @@ Yukarıdaki resimde gösterildiği gibi, yönlendirme tablosu "netstat -nr -f in
 
 ![yonlendirme-tablolari](assets/routing/routing-turleri.png)
 
-1. **Static Routing (Statik Yönlendirme)**
+1) **Static Routing (Statik Yönlendirme)**
 
 Ağ yöneticilerinin yönlendirme tablolarına sabit bir rotanın eklenmesine izin veren manuel yönlendirme girişleridir. Bu kayıt zamanla asla değişmeyecektir. Değişiklik yalnızca ağ yöneticisi yönlendirme tablolarında değişiklik yaparsa gerçekleşebilir.
 
-2. **Dynamic Routing (Dinamik Yönlendirme)**
+2) **Dynamic Routing (Dinamik Yönlendirme)**
 
 Statik yönlendirmenin aksine, dinamik yönlendirme zamana ve duruma bağlı olarak değişebilen yönlendirme türüdür. Dinamik yönlendirmeyi yönetmekten sorumlu yönlendirme protokolleri vardır.
 
-3. **Default Routing (Varsayılan Yönlendirme)**
+3) **Default Routing (Varsayılan Yönlendirme)**
 
 Diğer rotaların kendileri için uygun olmadığını belirleyen cihazlar varsayılan yönlendirmeyi kullanır. Ayrıca, iletişimde yalnızca bir yön olduğunda varsayılan yönlendirme, yönlendirme tablosuna eklenir.
 

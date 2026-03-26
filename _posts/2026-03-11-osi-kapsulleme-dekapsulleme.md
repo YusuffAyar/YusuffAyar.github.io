@@ -30,7 +30,7 @@ OSI modelindeki her katman, kapsülleme/dekapsülasyon sürecinde farklı bir ve
 
 OSI modelinde ayrı görevlere sahip toplam 7 katman vardır. Bu katmanlar arasında hiyerarşik bir düzen vardır. Her katman bir sonraki katmana hizmet eder.
 
-1. **Physical Layer (Fiziksel Katman)**
+1) **Physical Layer (Fiziksel Katman)**
 
 Veri iletim görevini barındıran katmandır. Veriler dijital (bit 0 veya 1 olarak) veya analog sinyaller şeklinde iletilir. Fiziksel iletişim kanallarına örnek olarak bükümlü çift kablolar, koaksiyel kablolar, fiber optik kablolar ve kablosuz iletişim verilebilir. Fiziksel katmanın görevleri şunlardır:
 
@@ -38,7 +38,7 @@ Veri iletim görevini barındıran katmandır. Veriler dijital (bit 0 veya 1 ola
 * Kaynak ve hedef arasında mekanik ve elektriksel tanımlar yaparak veri hareketini başlatmak, sürdürmek ve sonuçlandırmak.
 * Verilerin dijital veya analog sinyal biçiminde gönderilip gönderilmeyeceğine karar vermek.
 
-2. **Data Link Layer (Veri Bağlantısı Katmanı)**
+2) **Data Link Layer (Veri Bağlantısı Katmanı)**
 
 Fiziksel adreslemenin gerçekleştirildiği yerdir. "**FDDI, SLIP, X.25, ATM, Token Ring, Frame Relay, HDLC, PPP ve Ethernet**"" bu katmandaki veri iletiminde kullanılan protokollerden bazılarıdır. Veri bağlantısı katmanının görevleri şunlardır:
 
@@ -47,7 +47,7 @@ Fiziksel adreslemenin gerçekleştirildiği yerdir. "**FDDI, SLIP, X.25, ATM, To
 * Fiziksel katmana erişimi sağlamak ve ağ birimleri kullanılarak gönderilecek verilerin hedefini belirlemek.
 * Fiziksel adresler (MAC adresleri) kullanarak fiziksel bağlantılar arasında güvenilir veri iletimi sağlamak.
 
-3. **Network Layer (Ağ Katmanı)**
+3) **Network Layer (Ağ Katmanı)**
 
 Ağ katmanı mantıksal adreslemenin gerçekleştirildiği yerdir. Bu katman, önceki katmandan alınan verileri işler ve verileri üst katman olan taşıma katmanına iletir. "**IP, IPX, ICMP, IGMP, BGP, OSPF ve RIP**" bu katmanda kullanılan protokollerden bazılarıdır. Ağ katmanın işlevleri şunlardır:
 
@@ -55,21 +55,21 @@ Ağ katmanı mantıksal adreslemenin gerçekleştirildiği yerdir. Bu katman, ö
 * Her düğümü tanımlayan mantıksal adreslemeyi uygulamak.
 * Farklı ağlardaki bilgisayarlar arasında veri iletimi sağlayan yönlendirme mekanizmasını tanımlamak.
 
-4. **Transport Layer (Taşıma Katmanı)**
+4) **Transport Layer (Taşıma Katmanı)**
 
 Taşıma katmanı, veri iletimi ve iletim güvenliğinden sorumlu olandır. Bu katman hata kontrolü için son OSI katmanıdır. "**TCP, UDP ve ATP**" bu katmanda kullanılan protokollerden bazılarıdır. Taşıma katmanının görevleri şunlardır:
 
 * İki düğüm arasındaki iletimin akış kontrolü aracılığıyla her iki düğüm için uygun hızda olmasını sağlamak.
 * Bozuk verileri tespit etmek ve hata kontrolü yoluyla iletilmesini önlemek.
 
-5. **Session Layer (Oturum Katmanı)**
+5) **Session Layer (Oturum Katmanı)**
 
 Bilgisayarlar arasındaki bağlantıların kurulumunun, yönetiminin ve sonlandırılmasının gerçekleştirildiği katmandır. Ek olarak, oturum katmanı protokollerdeki veri akışını kendi katmanında kontrol eder. "**RPC, SQL ve NetBIOS**" bu katmanda kullanılan protokollerden ve uygulamalardan bazılarıdır.
 
-6. **Presentation Layer (Sunum Katmanı)**
+6) **Presentation Layer (Sunum Katmanı)**
 
 Veri taramasının yapıldığı katmandır. "**ASCII, Binary ve EBCDIC**" veri görüntüleme türlerinden bazılarıdır. Bu katman, verilerin sıkıştırılmasından ve şifrelenmesinden de sorumlu olabilir. "**GIF, JPEG, TIFF, ASCII, HTML ve MPEG**" bu katmanda kullanılan veri formatlarından bazılarıdır.
 
-7. **Application Layer (Uygulama Katmanı)**
+7) **Application Layer (Uygulama Katmanı)**
 
 Kullanıcıların önündeki uygulamaların işlendiği ilk katmandır. Uygulamadaki işlemler genellikle bu katmana dahil edilir. "**FTP, HTTP, TELNET ve SMTP**" bu katmanda kullanılan bazı protokollerdir.
