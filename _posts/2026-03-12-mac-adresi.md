@@ -12,7 +12,7 @@ image:
 
 Bilgisayarlarda ağ bağlantılarını ve iletişimlerinin kurulmasını ve sürdürülmesini sağlayan bir donanımdır. Ağ iletişimlerinde gelen ve giden ağ paketleri, ağ arayüz kartları sayesinde alınır/iletilir. Çeşitli boyutlarda ve özelliklerde birçok **NIC** donanım türü vardır. Örneğin, kablosuz iletişim sağlayan NIC'ler vardır. **Wi-Fi** "**kablosuz NIC**" donanımının kullanıma sunduğu bir özelliktir. Ağ arayüz kartları olmadan ağ iletişimi mümkün olmazdı.
 
-![interface-card](assets/mac-adresi/network-interface-card.jpgm)
+![interface-card](assets/mac-adresi/network-interface-card.jpg)
 
 ## MAC (Media Access Control) Adresi Nedir?
 
