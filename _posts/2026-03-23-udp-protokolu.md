@@ -8,11 +8,11 @@ image:
     alt: User Datagram Protocol
 ---
 
-## Kullanıcı Datagram Protokolü (UDP) Nedir?
+## Kullanıcı Datagram Protokolü (UDP) Nedir?
 
 Kullanıcı Datagram Protokolü (UDP), uygulamalar arasında veri iletimi sağlayan başka bir ağ protokolüdür. OSI modelinin 4. katmanında bulunur. TCP protokolünün aksine, UDP protokolü iletim güvenilirliği sağlamaz.
 
-## UDP Protokolünün Özellikleri
+## UDP Protokolünün Özellikleri
 
 * İletimden önce bağlantı kurulumu gerektirmez.
 * Hızlı bir iletim sağlar.
@@ -22,7 +22,7 @@ Kullanıcı Datagram Protokolü (UDP), uygulamalar arasında veri iletimi sağla
 * Hata kontrolü yapmaz.
 * Akış kontrolünü işlemez.
 
-## UDP Bağlantıları
+## UDP Bağlantıları
 
 UDP bağlantıları, UDP üzerinden veri ileten uygulamalar tarafından sıklıkla kullanılır. Uygulamaların UDP protokolüne bağlanması için protokolle ilgili bazı bilgiler kullanılır. Her UDP bağlantısı "**Kaynak IP Adresi - Kaynak Port Numarası**", "**Hedef IP Adresi - Hedef Port Numarası**" bilgilerinden oluşur.
 
