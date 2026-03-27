@@ -153,8 +153,3 @@ Acil işaretçi alanı, acil baytların hangi verilere kadar olduğunu gösteren
 **Options (Seçenekler)**
 
 Seçenekler, çeşitli TCP protokolü ek özelliklerini kullanmak için oluşturulan alandır. Kullanma zorunluluğu yoktur. Sabit bir uzunluğu yoktur.
-
-
-
-
-
