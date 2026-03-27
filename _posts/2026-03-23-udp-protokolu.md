@@ -38,7 +38,7 @@ Varsayılan UDP portlarının daha büyük bir listesini şu adreste bulabilirsi
 
 **https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers**
 
-## UDP Protokol Başlığı
+## UDP Protokol Başlığı
 
 UDP protokol başlığındaki alanlar diğer ağ protokollerinden çok daha azdır. Aşağıdaki resim UDP protokolünün başlıklarını ve alanlarını göstermektedir:
 
