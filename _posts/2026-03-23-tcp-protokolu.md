@@ -2,9 +2,9 @@
 title: "Transmission Control Protocol (TCP)"
 date: 2026-03-23 15:00:00 +0300
 categories: [Bilgisayar Ağı, Network]
-tags: [bilgisayar-ağı, network, internet, tcp, transmission-control-protocol, iletim-kontrol-protokolü]
+tags: [bilgisayar-ağı, network, internet, tcp, transmission-control-protocol, iletim-kontrol-protokolü, tcp-protokol-başlığı]
 image:
-    path: /assets/img/icmp_Baslik.png
+    path: /assets/img/tcp_Baslik.png
     alt: Transmission Control Protocol
 ---
 
