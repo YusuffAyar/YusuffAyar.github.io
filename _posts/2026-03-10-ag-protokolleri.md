@@ -10,7 +10,9 @@ image:
 
 ## Ağ Protokolleri Nedir?
 
-Ağ cihazlarının yapısından bağımsız olarak ağ iletişimini sağlamak için cihazlar arasında iletilen verilerin nasıl biçimlendirileceğini, iletileceğini ve alınacağını belirleyen bir dizi kuraldır. Ağ protokolü, aynı ağ içindeki ve farklı ağlar arasında ağ cihazları tarafından kullanılan kusursuz bir iletişim için ortak dildir. Farklı ağ cihazları arasındaki iletişim yalnızca ağ protokolleri aracılığıyla gerçekleştirilebilir. Ağ protokollerinin yapısını ve işleyişini bilmek güvenlik açısından önemlidir. Bazı önemli ağ protokollerinin teknik ayrıntılarını bilmek tehditleri tespit ederken yardımcı olabilir.
+Ağ cihazlarının yapısından bağımsız olarak ağ iletişimini sağlamak için cihazlar arasında iletilen verilerin nasıl biçimlendirileceğini, iletileceğini ve alınacağını belirleyen bir dizi kuraldır. Ağ protokolü, aynı ağ içindeki ve farklı ağlar arasında ağ cihazları tarafından kullanılan kusursuz bir iletişim için ortak dildir. Farklı ağ cihazları arasındaki iletişim yalnızca ağ protokolleri aracılığıyla gerçekleştirilebilir. 
+
+Ağ protokollerinin yapısını ve işleyişini bilmek güvenlik açısından önemlidir. Bazı önemli ağ protokollerinin teknik ayrıntılarını bilmek tehditleri tespit ederken yardımcı olabilir.
 
 **Ağ Protokolleri Türleri**
 

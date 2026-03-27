@@ -14,7 +14,9 @@ Bir bilgisayar ağında, her biri ayrı bir görevden sorumlu ağ cihazları var
 
 1) **Switch**
 
-OSI referans modeline göre katman 2'de çalışan ağ cihazlarından birisidir. Bununla birlikte, daha yönetilebilir özelliklere sahip bazı switchler, OSI referans modeline göre katman 3'te çalışır. Switchler ara bağlantı cihazlarıdır. Ağa bağlanmak isteyen düğümleri bağlamak için kullanılır. Boyutlar, üzerindeki bağlantı noktası sayısına bağlı olarak değişebilir. Switch cihazı kaynak bağlantı noktasından gelen verileri yalnızca hedef bağlantı noktasına iletir, bu nedenle ağ performansını olumsuz etkilemeyecek bir veri iletimi sağlar. Güvenlik açısından, iki tarafa ait verilerin üçüncü taraflara ulaşmasını önler ve böylece veri güvenliğini bir şekilde artırmış olur.
+OSI referans modeline göre katman 2'de çalışan ağ cihazlarından birisidir. Bununla birlikte, daha yönetilebilir özelliklere sahip bazı switchler, OSI referans modeline göre katman 3'te çalışır. Switchler ara bağlantı cihazlarıdır. Ağa bağlanmak isteyen düğümleri bağlamak için kullanılır. Boyutlar, üzerindeki bağlantı noktası sayısına bağlı olarak değişebilir.
+
+Switch cihazı kaynak bağlantı noktasından gelen verileri yalnızca hedef bağlantı noktasına iletir, bu nedenle ağ performansını olumsuz etkilemeyecek bir veri iletimi sağlar. Güvenlik açısından, iki tarafa ait verilerin üçüncü taraflara ulaşmasını önler ve böylece veri güvenliğini bir şekilde artırmış olur.
 
 ![switch](assets/ag-cihazlari/switch.jpeg)
 

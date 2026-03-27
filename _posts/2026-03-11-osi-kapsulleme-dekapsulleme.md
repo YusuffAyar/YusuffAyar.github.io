@@ -32,7 +32,9 @@ OSI modelinde ayrı görevlere sahip toplam 7 katman vardır. Bu katmanlar aras�
 
 1) **Physical Layer (Fiziksel Katman)**
 
-Veri iletim görevini barındıran katmandır. Veriler dijital (bit 0 veya 1 olarak) veya analog sinyaller şeklinde iletilir. Fiziksel iletişim kanallarına örnek olarak bükümlü çift kablolar, koaksiyel kablolar, fiber optik kablolar ve kablosuz iletişim verilebilir. Fiziksel katmanın görevleri şunlardır:
+Veri iletim görevini barındıran katmandır. Veriler dijital (bit 0 veya 1 olarak) veya analog sinyaller şeklinde iletilir. 
+
+Fiziksel iletişim kanallarına örnek olarak bükümlü çift kablolar, koaksiyel kablolar, fiber optik kablolar ve kablosuz iletişim verilebilir. Fiziksel katmanın görevleri şunlardır:
 
 * Gönderilen verilerin gönderen tarafından gönderildiği gibi alınmasını sağlamak.
 * Kaynak ve hedef arasında mekanik ve elektriksel tanımlar yaparak veri hareketini başlatmak, sürdürmek ve sonuçlandırmak.

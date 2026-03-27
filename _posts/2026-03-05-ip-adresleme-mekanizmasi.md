@@ -21,7 +21,11 @@ IP adresi, cihazın ağ adresinin kimliğidir. Bağlantı işlemleri IP adresler
 
 **IP Adresinin Yapısı**
 
-IP adresi 4 bayttan (32 bit) oluşur. Her bayt arasına bir nokta yerleştirilir ve ondalık gösterimle ifade edilebilir. Her bayt 8 bitten oluştuğundan, her baytın minimum değeri alabilmesi için 8 bitlik değerin "**0(sıfır)**" olması gerekir. Benzer şekilde maksimum değeri elde etmek için her bayt için 8 bitlik değer "**1**" olmalıdır. IP adresinin her baytı "**0-255**" arasında bir değer alabilir.
+IP adresi 4 bayttan (32 bit) oluşur. Her bayt arasına bir nokta yerleştirilir ve ondalık gösterimle ifade edilebilir. 
+
+Her bayt 8 bitten oluştuğundan, her baytın minimum değeri alabilmesi için 8 bitlik değerin "**0(sıfır)**" olması gerekir. Benzer şekilde maksimum değeri elde etmek için her bayt için 8 bitlik değer "**1**" olmalıdır. 
+
+IP adresinin her baytı "**0-255**" arasında bir değer alabilir.
 
 **IP Adresi Sınıfları**
 
