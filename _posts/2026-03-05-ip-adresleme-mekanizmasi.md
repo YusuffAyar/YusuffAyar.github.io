@@ -17,6 +17,7 @@ TCP/IP bilgisayar ağları oluştururken, önce ağdaki her cihaza bir mantıksa
 IP adresi, cihazın ağ adresinin kimliğidir. Bağlantı işlemleri IP adresleri kullanılarak gerçekleştirilir. IP adresleri IPv4 ve IPv6 olarak ikiye ayrılır. Her iki tür IP adresine de örnek olarak aşağıdaki IP adresleri verilebilir:
 
 **IPv4: 192.168.4.1**
+
 **IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334**
 
 **IP Adresinin Yapısı**
@@ -43,7 +44,9 @@ Aynı ilk 3 bayta sahip IP adreslerinin aynı ağdaki cihazlara ait olduğu söy
 
 **IPv6 Nedir?**
 
-Bugün, internet ağına bağlı cihaz sayısı oldukça yüksektir. Tüm bu cihazların bir IP adresine sahip olduğu düşünüldüğünde, IPv4 artık yeterli değildir. Bu nedenle bu sorunu çözmek için bazı teknolojiler (**NAT**) ve **IPv6** geliştirilmiştir. IPv6 ile sınırlı sayıda adrese sahip olan IPv4 kullanımı azalmaya başladı ve yerini IPv6'ya bıraktı. IPv6, 128 bitlik bir sayıdır.
+Bugün, internet ağına bağlı cihaz sayısı oldukça yüksektir. Tüm bu cihazların bir IP adresine sahip olduğu düşünüldüğünde, IPv4 artık yeterli değildir. Bu nedenle bu sorunu çözmek için bazı teknolojiler (**NAT**) ve **IPv6** geliştirilmiştir. IPv6 ile sınırlı sayıda adrese sahip olan IPv4 kullanımı azalmaya başladı ve yerini IPv6'ya bıraktı. 
+
+IPv6, 128 bitlik bir sayıdır.
 
 **Özel(Private) IP Adresleri**
 

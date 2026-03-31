@@ -44,7 +44,7 @@ Toplam uzunluk alanı, IP başlığını ve verilerin toplam uzunluğunu ifade e
 
 **Identification (Tanımlama)**
 
-Tanımlama alanı, her bir IP paketinin kimlik numarasını gösteriri. "16 bit" uzunluğundadır.
+Tanımlama alanı, her bir IP paketinin kimlik numarasını gösterir. "16 bit" uzunluğundadır.
 
 **IP Flags (IP Bayrakları)**
 
@@ -62,7 +62,7 @@ Yaşama zamanı (TTL), paketin alabileceği atlama sayısını gösterir. Paketi
 
 Protokol alanındaki değer, paketin bir üst katmanda ilişkilendirildiği protokolü gösterir. "8 bit" uzunluğundadır.
 
-**Header Checksum (Başlık Kontrol Toplamı)**
+**Header Checksum (Başlık Sağlama Toplamı)**
 
 IP başlığının sağlam bir şekilde iletilip gönderilmediğini görmek için hesaplayan kontrol değeridir. Belirli bir algoritma tarafında hesaplanan bu değer doğrulama amacıyla kullanılır. "16 bit" uzunluğundadır.
 

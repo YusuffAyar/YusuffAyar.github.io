@@ -29,7 +29,7 @@ ağına örnek olarak verilebilir.
 
 ### Metropolitian Area Network (MAN)
 
-**Büyükşehir Alan Ağı (MAN)**, birçok LAN bilgisayar ağının birbirine bağlı olduğu coğrafi olarak şehir büyüklüğünde bir bilgisayar ağıdır. Ağları fiber optik kablolama il birbirine bağlar.
+**Büyükşehir Alan Ağı (MAN)**, birçok LAN bilgisayar ağının birbirine bağlı olduğu coğrafi olarak şehir büyüklüğünde bir bilgisayar ağıdır. Ağları fiber optik kablolama ile birbirine bağlar.
 
 ![MAN](/assets/ag-turleri/man.png)
 

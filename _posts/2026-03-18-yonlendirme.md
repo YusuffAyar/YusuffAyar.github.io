@@ -57,7 +57,7 @@ Paketlerin iletilebilmesi için iletişimdeki cihazların belirli kararlar almas
 5. Yönlendirme tablosunda uygun bir rota yoksa paket varsayılan ağ geçidine gönderilir.
 6. Varsayılan ağ geçidine paket iletimi gerçekleşmezse, ICMP hata mesajı üretilir.
 
-## Yönlendirme Protokolleri
+## Yönlendirme Protokolleri
 
 Birçok farklı algoritmaya sahip yönlendirme protokolleri vardır. Gerekirse yönlendiricilerde farklı yönlendirme protokolleri kullanılabilir. Bazı yönlendirme protokolleri şunlardır:
 

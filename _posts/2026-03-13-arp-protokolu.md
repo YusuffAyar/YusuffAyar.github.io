@@ -54,9 +54,9 @@ Protokol türü alanındaki değer, protokolü ağ katmanında gösteren değeri
 
 Donanım uzunluğu alanı, donanım adresinin uzunluğunu gösterir. "1 bayt" uzunluğundadır. Örneğin, MAC adresi ethernet için donanım adresi olarak kullanıldığından, MAC adresleri 6 bayt uzunluğunda olduğu için "6" değeri bu alana dahil edilmiştir.
 
-**Protocol Lnegth (Protokol Uzunluğu)**
+**Protocol Length (Protokol Uzunluğu)**
 
-Protokol uzunluğu alanı protokol adresinin uzunluğunu gösterir. "1 bayt" uzunluğundadır. Örneğin, IPv4 adresi genellikle IP protokolü için kullanıldığından, IPv4 adresleri "4 bayt" uzunluğunda olduğu için "4" değeri bu alana dahil edilir.
+Protokol uzunluğu alanı, protokol adresinin uzunluğunu gösterir. "1 bayt" uzunluğundadır. Örneğin, IPv4 adresi genellikle IP protokolü için kullanıldığından, IPv4 adresleri "4 bayt" uzunluğunda olduğu için "4" değeri bu alana dahil edilir.
 
 **Operation Code (Operasyon Kodu)**
 
